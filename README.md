@@ -1,1 +1,1 @@
-# IVP_Lab
+# Image and Video Processing Lab Work.
